@@ -34,5 +34,6 @@ cd to the dump folder CQT is the original database CQT2 is a compy of the databa
 mongorestore --db CQT2 CQT
 
 ayesha is editing this
+ayesha is editing this
 
 
